@@ -1,6 +1,6 @@
 ## About 
 
-This page contains all the resources related to application security and penetration testing shared by [Harsh Bothra](https://www.twitter.com/harshbothra_). There are some additional resources and references added that one can follow to expand their knoweldge & learning curve. 
+This page contains all the resources related to application security and penetration testing shared by [Abhishek Meena](https://www.twitter.com/aacle). There are some additional resources and references added that one can follow to expand their knoweldge & learning curve. 
 
 **Note:** All the information listed here is for educational purpose and any sort of misuse is not endorsed by the author. Additional resources are sourced from different authors and original rights remain to them and kudos to everyone for sharing valuable knowledge. 
 
@@ -143,7 +143,7 @@ S.NO | Resources| Category
 
 Keep in touch: 
 
-* [Twitter](https://twitter.com/harshbothra_)
+* [Twitter](https://twitter.com/aacle_)
 * [LinkedIn](https://www.linkedin.com/in/harshbothra)
 * [Instagram](https://www.instagram.com/harshbothra_)
 
